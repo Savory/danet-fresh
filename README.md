@@ -13,7 +13,7 @@
 
 ## Quick Start
 
-[Overview & Tutorial](https://savory.github.io/Danet/fresh-integration/)
+[Overview & Tutorial](https://docs.danet.land/fresh-integration.html)
 
 ## License
 
